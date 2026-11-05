@@ -26,13 +26,13 @@ Dockerfile을 작성하여 컨테이너 환경에서 애플리케이션을 실�
 ## 3. 수행 항목 체크리스트
 
 - [x] 터미널 기본 명령어 사용
-- [x] 권한 문제 확인
-- [x] Docker 버전 확인
-- [x] Dockerfile 작성
-- [x] 포트 매핑 실습
-- [x] 볼륨 마운트 실습
-- [x] Git commit 생성
-- [x] GitHub 저장소 push
+- [] 권한 문제 확인
+- [] Docker 버전 확인
+- [] Dockerfile 작성
+- [] 포트 매핑 실습
+- [] 볼륨 마운트 실습
+- [] Git commit 생성
+- [] GitHub 저장소 push
 
 
 ## 4. 검증 방법 및 결과
